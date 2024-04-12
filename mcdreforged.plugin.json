@@ -1,7 +1,7 @@
 {
     "id": "leader",
     "version": "1.0.0",
-    "name": "Leader Plugin",
+    "name": "Leader-Plugin",
     "description": "give a player marker",
     "author": [
         "WalkerTian"
