@@ -1,6 +1,6 @@
 from mcdreforged.api.all import *
 
-from my_plugin import my_lib
+from leader import my_lib
 
 
 def on_load(server: PluginServerInterface, old):
